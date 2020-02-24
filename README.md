@@ -48,7 +48,10 @@ Minesweeper with a dark user interface, right?
 ![](img/gbemu.png)
 
 A project combining my primary interests: low-level software and
-computer hardware. Still badly work-in-progress.
+computer hardware. Still badly work-in-progress. Most of the
+emulation has been implemented, though, and the next step will be
+getting rid of the bugs that currently prevent the emulator from
+functioning correctly.
 
 **Tools and technologies involved:**
 - C++
