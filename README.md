@@ -1,58 +1,74 @@
 # Portfolio - Anton Ihonen
-Updated 27 August, 2019
+
+Updated 24 February, 2020
 
 ## About this repository
 The purpose of this repository is simply to serve as a compact collection of
-the most notable projects I have undertaken - and _finished_; I'll admit
-that I have far too many projects that were never taken to their
-conclusion.
+the most notable projects I have undertaken. This is by no means everything I
+have ever done.
 
 ## About me
-I am a BSc student at Tampere University of Technology. Having started in the
-electrical engineering program, I have a basic understanding of traditional
-electronics and electronics design. However, my true passion lies in the field
-of computer systems engineering. I am interested in both hardware and
-low-level software - kernels, drivers, protocols, algorithms, you name it -
-and that fascination will hopefully be reflected in my portfolio as well.
+I am a computer engineering student at Tampere University. While I am very
+interested in computer hardware, the thing I am most passionate about is
+systems programming where I get to interact with the hardware in software.
+However, I just love C/C++ in general - I can barely survive a week without
+writing any code - and am interested in pretty much any job or project
+involving either.
 
-## Projects
+## Finished Projects
 
 ### [Arduino Uno DIY replica](https://github.com/ihonen/ELT-21300)
 ![](img/arduino_pcb.png)
 
-A project I did at uni in the spring of 2018. One of the greatest
-learning experiences I have ever had!
+A uni project I did in 2018. Easily one of the greatest learning
+experiences I have ever had. The end product is a fully functional
+copy of Arduino Uno that is also compatible with extension shields
+for the Uno. 
 
-**Techniques involved:**
-- Electronics design (schematics, layout)
-- PCB manufacturing (etching, soldering)
-- Bare-metal programming
-
-**Technologies used:**
+**Tools and technologies involved:**
 - Atmel Studio
 - AVR microcontroller architecture
 - C programming language (C99)
 - KiCad
 
+### [Darksweeper](https://github.com/ihonen/darksweeper)
+![](img/darksweeper.png)
+
+A fun little project I started on a boring weekend to learn Qt while having fun
+(both of which I did). Nothing is better than Minesweeper, except for
+Minesweeper with a dark user interface, right?
+
+**Tools and technologies involved:**
+- C++
+- Qt
+
+## Ongoing Projects
+
+### [Game Boy emulator](https://github.com/ihonen/gbemu)
+![](img/gbemu.png)
+
+A project combining my primary interests: low-level software and
+computer hardware. Still badly work-in-progress.
+
+**Tools and technologies involved:**
+- C++
+- Emulation
+- Qt
+
+## Abandoned Projects
+
 ### [Logging library in C99](https://github.com/ihonen/Clogger)
 ![](img/logger.png)
 
-I'll include this project even if it's badly work-in-progress and I don't
-plan to keep working on it (because I realized halfway through that there
-are better alternatives for people to pick from). I think it is worth
-showcasing nonetheless because, while incomplete and poorly documented, it
-shows my programming style and skill level to a person who knows what to
-look out for.
+I never finished this project because halfway through I realized there
+are better alternatives and it would be a waste of time to continue.
+I think it is worth mentioning nonetheless. The logger was extremely
+fast, by the way (~1,000,000 formatted log entries per second on my
+quite mediocre laptop).
 
-**Techniques involved:**
-- Systems programming
-- Testing (functional, unit)
-- Debugging
-- Documentation (note: most of it now deleted due to being outdated)
-- Software design
-
-**Technologies used:**
+**Tools and technologies involved:**
 - C programming language (C99)
 - Doxygen
-- File systems
 - Microsoft Visual Studio
+
+### 
