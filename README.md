@@ -62,9 +62,9 @@ computer hardware. Still badly work-in-progress.
 
 I never finished this project because halfway through I realized there
 are better alternatives and it would be a waste of time to continue.
-I think it is worth mentioning nonetheless. The logger was extremely
+I think it is worth mentioning nonetheless. The logger is extremely
 fast, by the way (~1,000,000 formatted log entries per second on my
-quite mediocre laptop).
+somewhat mediocre laptop).
 
 **Tools and technologies involved:**
 - C programming language (C99)
