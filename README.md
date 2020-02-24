@@ -28,7 +28,7 @@ for the Uno.
 **Tools and technologies involved:**
 - Atmel Studio
 - AVR microcontroller architecture
-- C programming language (C99)
+- C
 - KiCad
 
 ### [Darksweeper](https://github.com/ihonen/darksweeper)
@@ -67,6 +67,6 @@ fast, by the way (~1,000,000 formatted log entries per second on my
 somewhat mediocre laptop).
 
 **Tools and technologies involved:**
-- C programming language (C99)
+- C
 - Doxygen
 - Microsoft Visual Studio
