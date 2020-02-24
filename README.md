@@ -55,7 +55,7 @@ computer hardware. Still badly work-in-progress.
 - Emulation
 - Qt
 
-## Abandoned Projects
+## Suspended Projects
 
 ### [Logging library in C99](https://github.com/ihonen/Clogger)
 ![](img/logger.png)
@@ -70,5 +70,3 @@ quite mediocre laptop).
 - C programming language (C99)
 - Doxygen
 - Microsoft Visual Studio
-
-### 
