@@ -1,6 +1,6 @@
 # Portfolio - Anton Ihonen
 
-Updated 24 February, 2020
+Updated 31 March, 2020
 
 ## About this repository
 The purpose of this repository is simply to serve as a compact collection of
@@ -41,6 +41,20 @@ Minesweeper with a dark user interface, right?
 **Tools and technologies involved:**
 - C++
 - Qt
+
+### [GPU-accelerated parallel merge sort with CUDA](https://github.com/ihonen/cuda-sort)
+
+![](img/cuda_sort.png)
+
+A project born out of Friday afternoon inspiration. I wanted to learn GPGPU programming, so I did.
+
+**Tools and technologies involved:**
+- CUDA
+- GPGPU
+- Hardware acceleration
+- Multithreading
+- Nvidia GPU
+- Parallelism
 
 ## Ongoing Projects
 
